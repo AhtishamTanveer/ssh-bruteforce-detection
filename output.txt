@@ -1,0 +1,8 @@
+Suspicious IP: 192.168.1.50, Attempts: 15, Time Range: 10:00-10:04
+Total failed attempts from this IP: 15
+
+All IPs with failed logins:
+  192.168.1.50     max in 5 min: 15  total: 15  [SUSPICIOUS]
+  10.0.0.23        max in 5 min: 1   total: 3   [ok]
+  203.0.113.7      max in 5 min: 1   total: 2   [ok]
+  198.51.100.9     max in 5 min: 1   total: 4   [ok]
